@@ -1,0 +1,158 @@
+{
+  "cesp_version": "1.0",
+  "name": "wc2_peasant_pt-br",
+  "display_name": "WC2 Peasant (PT-BR)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucas Oliveira",
+    "github": "lucaspwo"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "pt-BR",
+  "description": "Camponês humano do WarCraft II dublado em português brasileiro.",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/ReadyToServe.mp3",
+          "label": "TODO",
+          "sha256": "8eb6f7c38b03b81307248d81dc8757f681d25ec4ac4d89cbbb2304692d56d0ae"
+        },
+        {
+          "file": "sounds/Selected1.mp3",
+          "label": "TODO",
+          "sha256": "43588e728dab70d3c1a4d33b9b90e62a0245f3468b4cfcb13535dd97234c6abd"
+        },
+        {
+          "file": "sounds/Selected2.mp3",
+          "label": "TODO",
+          "sha256": "b218c6de72b04ce8f042ea604dec42bb5b3cf240da468dcac22965b22470c2e6"
+        },
+        {
+          "file": "sounds/Selected3.mp3",
+          "label": "TODO",
+          "sha256": "773d75ba572abba1033bdcde0cf576f16bb972e8e6f9e5df73d521934bf845c8"
+        },
+        {
+          "file": "sounds/Selected4.mp3",
+          "label": "TODO",
+          "sha256": "059d2928a79af99471405951c32ae17ea60d6ceed92f6c8cc991bfe27df500fa"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/Acknowledgement1.mp3",
+          "label": "TODO",
+          "sha256": "cb3924fb223cb47237b46a07e7d8d8ef9b9cfa3432e78f274984e5fdd5e69f4d"
+        },
+        {
+          "file": "sounds/Acknowledgement2.mp3",
+          "label": "TODO",
+          "sha256": "a6fe588b3ed693e138a9c0f432964e93aeda4c3c91ea433a1ad5a9420193f2fd"
+        },
+        {
+          "file": "sounds/Acknowledgement3.mp3",
+          "label": "TODO",
+          "sha256": "1ae4086110038a18c50ec4c01ad7fe07fbd97227a46e2fd32b2983e29c1de3d3"
+        },
+        {
+          "file": "sounds/Acknowledgement4.mp3",
+          "label": "TODO",
+          "sha256": "d0ea584746ff1fcfc928174e007b748023afcbc3c7a82042ddac050f2431600e"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/WorkComplete.mp3",
+          "label": "TODO",
+          "sha256": "f3d4a39a0984ef7575461cf1c1b20f6102e842a4ca062378997372aba8a9c00a"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/Attack.mp3",
+          "label": "TODO",
+          "sha256": "221ee63b2d1e451a7ab70fde5a953f6eabdf3f4b14889e12af7fc02fb12e3022"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/Selected1.mp3",
+          "label": "TODO",
+          "sha256": "43588e728dab70d3c1a4d33b9b90e62a0245f3468b4cfcb13535dd97234c6abd"
+        },
+        {
+          "file": "sounds/Selected2.mp3",
+          "label": "TODO",
+          "sha256": "b218c6de72b04ce8f042ea604dec42bb5b3cf240da468dcac22965b22470c2e6"
+        },
+        {
+          "file": "sounds/Selected3.mp3",
+          "label": "TODO",
+          "sha256": "773d75ba572abba1033bdcde0cf576f16bb972e8e6f9e5df73d521934bf845c8"
+        },
+        {
+          "file": "sounds/Selected4.mp3",
+          "label": "TODO",
+          "sha256": "059d2928a79af99471405951c32ae17ea60d6ceed92f6c8cc991bfe27df500fa"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/Attack.mp3",
+          "label": "TODO",
+          "sha256": "221ee63b2d1e451a7ab70fde5a953f6eabdf3f4b14889e12af7fc02fb12e3022"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/Annoyed1.mp3",
+          "label": "TODO",
+          "sha256": "751a9e76741597042004e349cd7bbad415980ef50ebcf9e1983df52d4a249af4"
+        },
+        {
+          "file": "sounds/Annoyed2.mp3",
+          "label": "TODO",
+          "sha256": "4e565d20042210afd24fe7f06c4e0143d72eb3a06241793cfdb9396a1daacdf4"
+        },
+        {
+          "file": "sounds/Annoyed3.mp3",
+          "label": "TODO",
+          "sha256": "4bb07eb9a8f5cbd55a1d7bd4698ebbc2747b8292f2065252daf4619e58ac644f"
+        },
+        {
+          "file": "sounds/Annoyed4.mp3",
+          "label": "TODO",
+          "sha256": "e0f95206088939479d2670c93c7f275892ccaac2148458ac9b6fcf63a97662c8"
+        },
+        {
+          "file": "sounds/Annoyed5.mp3",
+          "label": "TODO",
+          "sha256": "24844ff555dcd1bd97d8e22edb43aeb76d47bb268d607ab4977ceb90b1468e71"
+        },
+        {
+          "file": "sounds/Annoyed6.mp3",
+          "label": "TODO",
+          "sha256": "ed4ab95776f5a318867a91848c10f20aa6293b27005870b4de0851dd35471955"
+        },
+        {
+          "file": "sounds/Annoyed7.mp3",
+          "label": "TODO",
+          "sha256": "1ebc80d66af6c2c1daf1a6248c8d227b8a12ffd76dca4233df7826f2ea4864e9"
+        }
+      ]
+    }
+  }
+}
